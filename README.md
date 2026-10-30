@@ -64,5 +64,142 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-fetcher-cloud is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://fetcher.cloud/
+The ghost that fetches what your AI can't. 20 pay-per-call HTTP tools for AI agents: render & screenshot JavaScript pages, extract clean Markdown, unfurl links, parse RSS feeds, resolve redirects, and look up domains, DNS, SSL, WHOIS and more. Works with any agent — Claude, ChatGPT, Gemini, Grok, Perplexity — via x402 micropayments in USDC on Base. No sign-up, no API keys.
+
+**Areas:** Company · API · AI · Tools · Pay-per-call · Micropayments
+
+## fetcher-cloud on APIs.io
+
+Everything profiled for fetcher-cloud is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fetcher-cloud/](https://apis.io/providers/fetcher-cloud/)** — or go straight to one of the APIs or properties below.
+
+### APIs (18)
+
+- [fetcher-cloud Diff API](https://apis.io/apis/fetcher-cloud/fetcher-cloud-diff-api/) — The Diff API from fetcher-cloud — 1 operation(s) for diff.
+- [fetcher-cloud Dns API](https://apis.io/apis/fetcher-cloud/fetcher-cloud-dns-api/) — The Dns API from fetcher-cloud — 1 operation(s) for dns.
+- [fetcher-cloud Domain API](https://apis.io/apis/fetcher-cloud/fetcher-cloud-domain-api/) — The Domain API from fetcher-cloud — 2 operation(s) for domain.
+- [fetcher-cloud Extract API](https://apis.io/apis/fetcher-cloud/fetcher-cloud-extract-api/) — The Extract API from fetcher-cloud — 1 operation(s) for extract.
+- [fetcher-cloud Favicon API](https://apis.io/apis/fetcher-cloud/fetcher-cloud-favicon-api/) — The Favicon API from fetcher-cloud — 1 operation(s) for favicon.
+- [fetcher-cloud Feed API](https://apis.io/apis/fetcher-cloud/fetcher-cloud-feed-api/) — The Feed API from fetcher-cloud — 1 operation(s) for feed.
+- [fetcher-cloud Guard API](https://apis.io/apis/fetcher-cloud/fetcher-cloud-guard-api/) — The Guard API from fetcher-cloud — 2 operation(s) for guard.
+- [fetcher-cloud Headers API](https://apis.io/apis/fetcher-cloud/fetcher-cloud-headers-api/) — The Headers API from fetcher-cloud — 1 operation(s) for headers.
+- [fetcher-cloud Oembed API](https://apis.io/apis/fetcher-cloud/fetcher-cloud-oembed-api/) — The Oembed API from fetcher-cloud — 1 operation(s) for oembed.
+- [fetcher-cloud Pdf Text API](https://apis.io/apis/fetcher-cloud/fetcher-cloud-pdf-text-api/) — The Pdf Text API from fetcher-cloud — 1 operation(s) for pdf text.
+- [fetcher-cloud Qr API](https://apis.io/apis/fetcher-cloud/fetcher-cloud-qr-api/) — The Qr API from fetcher-cloud — 1 operation(s) for qr.
+- [fetcher-cloud Render API](https://apis.io/apis/fetcher-cloud/fetcher-cloud-render-api/) — The Render API from fetcher-cloud — 1 operation(s) for render.
+- [fetcher-cloud Resolve API](https://apis.io/apis/fetcher-cloud/fetcher-cloud-resolve-api/) — The Resolve API from fetcher-cloud — 1 operation(s) for resolve.
+- [fetcher-cloud Robots API](https://apis.io/apis/fetcher-cloud/fetcher-cloud-robots-api/) — The Robots API from fetcher-cloud — 1 operation(s) for robots.
+- [fetcher-cloud Screenshot API](https://apis.io/apis/fetcher-cloud/fetcher-cloud-screenshot-api/) — The Screenshot API from fetcher-cloud — 1 operation(s) for screenshot.
+- [fetcher-cloud Ssl API](https://apis.io/apis/fetcher-cloud/fetcher-cloud-ssl-api/) — The Ssl API from fetcher-cloud — 1 operation(s) for ssl.
+- [fetcher-cloud Unfurl API](https://apis.io/apis/fetcher-cloud/fetcher-cloud-unfurl-api/) — The Unfurl API from fetcher-cloud — 1 operation(s) for unfurl.
+- [fetcher-cloud Whois API](https://apis.io/apis/fetcher-cloud/fetcher-cloud-whois-api/) — The Whois API from fetcher-cloud — 1 operation(s) for whois.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Fetcher Cloud Agentic Access](https://apis.io/agentic-access/fetcher-cloud/fetcher-cloud-agentic-access/)
+
+#### Examples (1)
+
+Example requests and responses.
+
+- [Fetcher Cloud Mcp](https://apis.io/examples/fetcher-cloud/fetcher-cloud-mcp/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [fetcher-cloud API Rules](https://apis.io/rules/fetcher-cloud/fetcher-cloud-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Fetcher Cloud Authentication](https://apis.io/security/fetcher-cloud/fetcher-cloud-authentication/)
+- [Fetcher Cloud Domain Security](https://apis.io/security/fetcher-cloud/fetcher-cloud-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Fetcher Cloud Scopes](https://apis.io/scopes/fetcher-cloud/fetcher-cloud-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Fetcher Cloud Plans Pricing](https://apis.io/plans/fetcher-cloud/fetcher-cloud-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Fetcher Cloud Rate Limits](https://apis.io/rate-limits/fetcher-cloud/fetcher-cloud-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fetcher.cloud/)
+- [Documentation](https://api.fetcher.cloud/docs)
+- [Getting started](https://api.fetcher.cloud/docs)
+- [API reference](https://api.fetcher.cloud/docs)
+
+## API Evangelist rating
+
+**Kin Score 36.5** — thin · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 40.4 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 28.4 |
+
+**Agent readiness 27.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 19.1** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fetcher-cloud/](https://apis.io/providers/fetcher-cloud/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for fetcher-cloud: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fetcher-cloud/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
